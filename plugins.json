@@ -1,30 +1,5 @@
 [
   {
-    "iconUrl": "https://animedekho.app/favicon.ico",
-    "jarFileSize": 73604,
-    "fileHash": "sha256-5f42b4998ae39e3dcd04165d8e3e5f8a648a22e1be22f3426e1671b44399f86f",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Anime-dekho-scrapper-fork",
-    "fileSize": 18284,
-    "status": 1,
-    "authors": [
-      "moviesallwatchdowanload-web"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "AsianDrama"
-    ],
-    "version": 1,
-    "internalName": "AnimeDekhoProvider",
-    "jarUrl": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Anime-dekho-scrapper-fork/builds/AnimeDekhoProvider.jar",
-    "description": "AnimeDekho - Hindi Dubbed Anime Movies & Series",
-    "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Anime-dekho-scrapper-fork/builds/AnimeDekhoProvider.cs3",
-    "name": "AnimeDekhoProvider",
-    "jarHash": "sha256-d8b6bbfa6b1322f44acd6198f0623ff4a967e09f4d0be396b54b54f182003c89"
-  },
-  {
     "name": "MyMovieBox",
     "internalName": "MyMovieBox",
     "description": "MovieBox - Multi Language Movies & Series",
@@ -208,26 +183,48 @@
     "status": 1
   },
   {
-    "iconUrl": "https://new6.hdhub4u.cl/favicon.ico",
-    "jarFileSize": 129529,
-    "fileHash": "sha256-3cd2c4360130fdcb37316844c391a69f98e60630a893214e45fe8a42ec57f9a7",
+    "name": "AnimeDekho",
+    "internalName": "AnimeDekhoProvider",
+    "description": "AnimeDekho - Hindi Dubbed Anime Movies & Series",
+    "version": 70,
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Scrapper-hdhub4u-",
-    "fileSize": 31197,
-    "status": 1,
+    "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Anime-dekho-phiser-wala",
+    "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Anime-dekho-phiser-wala/main/AnimeDekhoProvider.cs3",
+    "fileSize": 110927,
+    "fileHash": "sha256-75f365b027ea358a04683fa4d7b0588a21b118cb80424f404ce3be0597d29e24",
+    "iconUrl": "https://animedekho.app/wp-content/uploads/2023/07/AnimeDekho-Logo-300x-1.png",
     "authors": [
-      "moviesallwatchdowanload-web"
+      "phisher98"
     ],
+    "language": "hi",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama",
+      "Cartoon"
+    ],
+    "status": 1
+  },
+  {
+    "name": "HDHub4u",
+    "internalName": "HDhub4u",
+    "description": "HDHub4u - Hindi Dubbed Movies & Web Series",
+    "version": 55,
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Hdhub4u-phiser-wala",
+    "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Hdhub4u-phiser-wala/main/HDhub4u.cs3",
+    "fileSize": 119026,
+    "fileHash": "sha256-b358e638aac7bc35bfd24885e78282360605af7b4d3ba500a3963c0bf1ea2cb1",
+    "iconUrl": "https://new6.hdhub4u.cl/wp-content/uploads/2021/05/cropped-cropped-1-1-1-2-1-192x192.png",
+    "authors": [
+      "phisher98"
+    ],
+    "language": "hi",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
-    "internalName": "HdHub4uProvider",
-    "jarUrl": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Scrapper-hdhub4u-/builds/HdHub4uProvider.jar",
-    "description": "HDHub4u - Hindi Dubbed Movies & Web Series",
-    "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Scrapper-hdhub4u-/builds/HdHub4uProvider.cs3",
-    "name": "HdHub4uProvider",
-    "jarHash": "sha256-243a0dbb198df0e1eabaa27b6a159fe0a1b522a3740de0d1179fd43e3464202a"
+    "status": 1
   }
 ]
