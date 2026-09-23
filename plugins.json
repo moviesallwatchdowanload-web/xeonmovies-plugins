@@ -1,0 +1,117 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Xeonmoviesappcsx/builds/Bollyflix.cs3",
+        "status": 1,
+        "version": 33,
+        "name": "Bollyflix",
+        "internalName": "Bollyflix",
+        "authors": [
+            "megix"
+        ],
+        "description": "Movies and Series upto 4K",
+        "fileSize": 38226,
+        "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Xeonmoviesappcsx",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-bcd71ae4b3b4638e0c8f5e8077d698f84beba2c90162f13ff3cfeb1e1a1dc36f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Xeonmoviesappcsx/builds/CineStream.cs3",
+        "status": 1,
+        "version": 487,
+        "name": "CineStream",
+        "internalName": "CineStream",
+        "authors": [
+            "megix"
+        ],
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "fileSize": 696064,
+        "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Xeonmoviesappcsx",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent"
+        ],
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-eff689245a9ebffa4ee5a1128d4e5c8faade3fa3e861281ac7ad7bdbf804cd88"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Xeonmoviesappcsx/builds/MoviesDrive.cs3",
+        "status": 1,
+        "version": 33,
+        "name": "MoviesDrive",
+        "internalName": "MoviesDrive",
+        "authors": [
+            "megix"
+        ],
+        "description": "High Quality Movies and TV Shows",
+        "fileSize": 47389,
+        "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Xeonmoviesappcsx",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-860b1624240a77737f1ba3f19e1d38927806ec7c4ee779551d77b21bc9a4c347"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Xeonmoviesappcsx/builds/Moviesmod.cs3",
+        "status": 1,
+        "version": 33,
+        "name": "Moviesmod",
+        "internalName": "Moviesmod",
+        "authors": [
+            "megix"
+        ],
+        "description": "Includes Topmovies",
+        "fileSize": 44551,
+        "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Xeonmoviesappcsx",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-41db331db855a9fbd371ddd25bb959e1bc5c720643fcf2177228e585adb34ede"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Xeonmoviesappcsx/builds/VegaMovies.cs3",
+        "status": 1,
+        "version": 82,
+        "name": "VegaMovies",
+        "internalName": "VegaMovies",
+        "authors": [
+            "megix"
+        ],
+        "description": "Includes LuxMovies, Rogmovies",
+        "fileSize": 41653,
+        "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Xeonmoviesappcsx",
+        "language": "hi",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/VegaMovies/icon.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-4a27739053a54257e59ad7bfaa9bff50ea828fcbc9105d085dd96ed7e2a208f5"
+    }
+]

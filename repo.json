@@ -1,0 +1,8 @@
+{
+  "name": "XeonMovies Plugins",
+  "description": "Central plugin repository for XeonMovies",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/moviesallwatchdowanload-web/xeonmovies-plugins/main/plugins.json"
+  ]
+}
